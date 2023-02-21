@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Chetan Verma</h1>
+<h3 align="center">A passionate backend developer from India</h3>
+
+- 📫 How to reach me **vermachetan556@gmail.com**
+
+
 # 💫 About Me:
 I'm currently working on React.js<br>I'm currently learning Backend.<br>Ask me about JavaScript, Node.js, Express.js, MongoDB.
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
